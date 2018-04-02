@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EnterActivity"
+    >
+
+    <EditText
+        android:id="@+id/log_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Log Date"
+        />
+    <Button
+        android:id="@+id/log_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Timestamp"
+        />
+    <EditText
+        android:id="@+id/name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Pokemon Name"
+        />
+    <EditText
+        android:id="@+id/number_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Pokemon #"
+        />
+    <CheckBox
+        android:id="@+id/caught_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Caught?"
+        />
+    <Button
+        android:id="@+id/pokemon_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Pokemon"
+        />
+
+</LinearLayout>
+

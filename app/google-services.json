@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427199108895",
+    "firebase_url": "https://takehomeassignments.firebaseio.com",
+    "project_id": "takehomeassignments",
+    "storage_bucket": "takehomeassignments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427199108895:android:66756272edf51c92",
+        "android_client_info": {
+          "package_name": "com.example.joe.takehomeassignment_joec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427199108895-7p2s0la5eg8lhramruu3fgotaebih6e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19fwrLZs5_WRJPzfqBVmkAX7SV-02eko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
